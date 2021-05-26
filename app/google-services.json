@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319945505973",
+    "project_id": "mapstracking-df493",
+    "storage_bucket": "mapstracking-df493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319945505973:android:33ddaafb0656437af812fc",
+        "android_client_info": {
+          "package_name": "com.example.googlemapstracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319945505973-eabbcvisp9skpjhsh5kqjl0na451l8pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemapstracking",
+            "certificate_hash": "753416400295a2dc67f6b8bfbd098f5ee976623f"
+          }
+        },
+        {
+          "client_id": "319945505973-i3dvgt07bgsqombf4qm2ci5ke6i0b937.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kdD1EApQ7Nri0xBNNaQBwY8JRDJUdi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319945505973-i3dvgt07bgsqombf4qm2ci5ke6i0b937.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

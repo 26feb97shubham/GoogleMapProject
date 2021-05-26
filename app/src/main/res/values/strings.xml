@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapsTracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="polyline_width">Polyline Width</string>
+    <string name="draw_polyline">Draw Polyline</string>
+    <string name="clear">Clear</string>
+</resources>
